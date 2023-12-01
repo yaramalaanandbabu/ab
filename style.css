@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(#cd77f2 20% , #8879eB 100%);
+}
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.img{
+    max-width: 50%;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+}
